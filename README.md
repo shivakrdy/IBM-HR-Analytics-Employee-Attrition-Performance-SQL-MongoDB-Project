@@ -4,6 +4,20 @@ This project explores employee attrition and performance insights using structur
 
 ---
 
+## Project Reports
+All SQL queries, ER diagrams, assumptions, and detailed analysis are documented in the following PDF reports:
+
+Phase 1 Project.pdf
+
+Phase 2 Project.pdf
+
+These PDFs serve as the final consolidated reports for the project, summarizing the entire data modeling, SQL coding, business logic, and MongoDB querying process.
+
+⚠️ Note: SQL and MongoDB code are embedded within the PDFs. No separate .sql or .txt files have been uploaded.
+
+---
+
+
 ## Project Overview
 
 - **Course:** BUAN 6320 – Database Foundations  

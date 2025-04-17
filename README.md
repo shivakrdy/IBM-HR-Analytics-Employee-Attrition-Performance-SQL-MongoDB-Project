@@ -5,7 +5,7 @@ This project explores employee attrition and performance insights using structur
 ---
 
 ## Project Reports
-All SQL queries, ER diagrams, assumptions, and detailed analysis are documented in the following PDF reports:
+All SQL queries, MongoDB queries, ER diagrams, assumptions, and detailed analysis are documented in the following PDF reports:
 
 - Phase 1 Project.pdf
 - Phase 2 Project.pdf
